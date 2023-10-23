@@ -1,0 +1,17 @@
+{
+    "name": "arnol/composer_3",
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arnol\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArnoldMsl",
+            "email": "arnold.masselin@gmail.com"
+        }
+    ]
+}
